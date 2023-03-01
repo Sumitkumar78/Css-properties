@@ -1,0 +1,25 @@
+
+.container{
+
+  background-color: white;
+  margin: 10px auto;
+  padding: 10px;
+  border: 4px solid red;
+  display: flex;
+}
+.item1{
+  background-color:  blue;
+  
+}
+.item2{
+  background-color:  green;
+  
+}
+.item3{
+  background-color:  yellow;
+  
+}
+.item4{
+  background-color:  pink;
+  
+}
