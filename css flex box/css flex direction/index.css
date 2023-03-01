@@ -6,10 +6,6 @@
   padding: 10px;
   border: 4px solid red;
   display: flex;
-  /*flex-direction: row;      ///////////this is by default so you dont need to write it again 
-  /*flex-direction: row-reverse;*/
-  flex-direction: column;
-  
 }
 .item1{
   background-color:  blue;
